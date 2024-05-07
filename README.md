@@ -25,6 +25,4 @@
 
 ### ✍️ Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-<div align="center">
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-</div>
+
